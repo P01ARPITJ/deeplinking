@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vitalityactive.assetadvance",
+    "sha256_cert_fingerprints":
+    [" EE:8E:48:57:20:F4:8B:93:40:B0:A5:BE:03:C8:15:8B:8B:53:C6:3E:03:D4:F7:1A:DA:93:4D:E9:67:69:D7:92",
+      "bf:8d:d4:bc:3d:d4:1a:09:1b:2d:9c:9a:0b:24:08:18:1f:04:57:7f:f3:2a:0b:6c:d3:36:ad:88:45:88:94:f6",
+      "BF:8D:D4:BC:3D:D4:1A:09:1B:2D:9C:9A:0B:24:08:18:1F:04:57:7F:F3:2A:0B:6C:D3:36:AD:88:45:88:94:F6"]
+  }
+}]
